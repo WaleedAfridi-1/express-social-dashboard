@@ -1,4 +1,5 @@
-# SocialSphere
+# Express-social-dashboard
+
 
 A modern social media web application built using Node.js, Express.js, MongoDB, EJS, JWT Authentication, bcrypt, and Tailwind CSS.
 
