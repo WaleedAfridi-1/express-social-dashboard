@@ -65,13 +65,13 @@ project/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/socialsphere.git
+git clone https://github.com/WaleedAfridi-1/express-social-dashboard.git
 ```
 
 ### 2. Navigate into Project
 
 ```bash
-cd socialsphere
+cd express-social-dashboard
 ```
 
 ### 3. Install Dependencies
